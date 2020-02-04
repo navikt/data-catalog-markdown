@@ -6,5 +6,5 @@
           NAV planlegger å utvide med flere datasett. Vi er derfor interessert i
           tilbakemelding om publiserte datasett og andre datasett som det kan
           være behov for. Tilbakemelding kan gis til Statistikkseksjonen
-          [nav.statistikk@nav.no](mailto:nav.statistikk@nav.no)
+          [nav.statistikk@nav.no]: mailto:nav.statistikk@nav.no
   
