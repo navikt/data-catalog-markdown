@@ -1,4 +1,4 @@
-**Om Begrepskatalogen**
+**Begrepskatalogen**
 
 NAV har jobbet med en begrepskatalog helt siden 2012, der målet er å samle alle begrepene som brukes i etaten med tilhørende definisjoner og forklaringer. Innholdet i begrepene utarbeides og godkjennes av fageierne. Begrepskatalogen vil dermed kunne fungere som et oppslagsverk og som en autoritativ kilde for hvordan ord og begreper skal brukes og tolkes i NAV.
 
