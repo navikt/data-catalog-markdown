@@ -1,4 +1,4 @@
-**Om Åpen data**
+**Åpen data**
 
 Åpne data handler om å gi næringsliv, forskere og sivilsamfunn tilgang
 til data offentlig forvaltning har på en slik måte at de lett kan
